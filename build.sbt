@@ -27,3 +27,5 @@ lazy val webapp = Project(
 lazy val webapi = Project(
         id = "webapi",
         base = file("delphi-webapi"))
+
+addCommandAlias("run", "; all webapi/run crawler/run webapp/run management/run")

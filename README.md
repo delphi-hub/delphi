@@ -1,4 +1,6 @@
 # Delphi
+
+[![Join the chat at https://gitter.im/delphi-hub/delphi](https://badges.gitter.im/delphi-hub/delphi.svg)](https://gitter.im/delphi-hub/delphi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A data curation platform for data collected on open-source software
 
 ## Motivation

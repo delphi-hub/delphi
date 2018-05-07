@@ -20,6 +20,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Affected components (if known)**
+Choose those applicable here: crawler, cli, webapi, webapp, management
+
 **Desktop (please complete the following information, if relevant):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]

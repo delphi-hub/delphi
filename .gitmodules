@@ -1,15 +1,20 @@
 [submodule "delphi-webapi"]
 	path = delphi-webapi
 	url = https://github.com/delphi-hub/delphi-webapi
+        branch = .
 [submodule "delphi-webapp"]
 	path = delphi-webapp
 	url = https://github.com/delphi-hub/delphi-webapp
+        branch = .
 [submodule "delphi-cli"]
 	path = delphi-cli
 	url = https://github.com/delphi-hub/delphi-cli
+        branch = .
 [submodule "delphi-crawler"]
 	path = delphi-crawler
 	url = https://github.com/delphi-hub/delphi-crawler
+	branch = .
 [submodule "delphi-management"]
 	path = delphi-management
 	url = https://github.com/delphi-hub/delphi-management
+        branch = .

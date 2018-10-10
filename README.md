@@ -28,7 +28,7 @@ You need a running instance of [ElasticSearch](https://www.elastic.co/downloads/
 ### Running Delphi locally
 After you started ElasticSearch, you can run delphi by following the below steps
 
-* Cloning the projects. Needs to be done only the first time.
+* Cloning the projects. Needs to be done only for the first time.
 ```
 sbt clone-all
 ```

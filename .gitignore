@@ -1,4 +1,6 @@
 *.class
 *.log
+repos
 project/target
 target
+.idea

@@ -64,9 +64,6 @@ lazy val webapi = Project(
 id = "webapi",
 base = file("repos/delphi-webapi"))
 
-
-
-
 lazy val cli = Project(
   id = "cli",
   base = file("repos/delphi-cli"))

@@ -26,12 +26,26 @@ This source code repository bundles all of Delphi's components and provides an u
 You need a running instance of [ElasticSearch](https://www.elastic.co/downloads/elasticsearch) on your local machine on port 9200.
 
 ### Running Delphi locally
-After you started ElasticSearch, it is simply a matter of typing
+After you started ElasticSearch, you can run delphi by following the below steps
+
+* Cloning the projects. Needs to be done only for the first time.
+```
+sbt clone-all
+```
+* After that, just use run command
+
 ```
 sbt run
 ```
+&nbsp;&nbsp;&nbsp;&nbsp;
 into your terminal. SBT will compile and start all necessary services to run Delphi.
 
+* Delphi components can be deleted in case all cloned components needs to be deleted using
+
+```
+sbt delete
+```
+&nbsp;&nbsp;&nbsp;&nbsp;
 ## Components
 
 ### delphi-crawler

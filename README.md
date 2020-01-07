@@ -1,4 +1,4 @@
-# Delphi
+# Delphi <img src="https://github.com/delphi-hub/delphi/raw/master/img/delphi.png" align="right" height=140/>
 
 A data curation platform for data collected on open-source software
 
